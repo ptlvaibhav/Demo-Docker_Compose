@@ -18,5 +18,5 @@ This project demonstrates how to run a basic multi-container application using *
 
 ```bash
 git clone https://github.com/ptlvaibhav/Demo-Docker_Compose.git
-cd docker-compose-mysql-ejs-demo
+cd Demo-Docker_Compose
 ```
